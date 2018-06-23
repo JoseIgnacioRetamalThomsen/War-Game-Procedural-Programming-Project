@@ -4,6 +4,7 @@ Report:
 https://1drv.ms/w/s!Ame8MN4OJqwaiAlPD6P9rp_ejEZG
 
 Procedural	Programming	Project	
+
 Your	project	is	to	write	a	program	that	implement	the	game	called	“War”	which	is	outlined	below.	
 Game	Overview:	The	game	is	based	on	the	card	game	War	-	where	each	player	flips	over	a	card,	highest	
 card	wins.	Number	of	players:		Between	2-10	players			Game	lasts:		13	rounds	Setup:		Each	player
